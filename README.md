@@ -15,3 +15,4 @@ To analyze banking data and understand customer behavior, segmentation, and loan
 
 ## Dashboard Link
 [click here to view dashboard](https://drive.google.com/file/d/1apBhpKhe6TvJbC2s1HI1QNGyw3QIg7T2/view?usp=drive_link)
+![Bank Analytics Dashboard](dashboard_preview.png)
