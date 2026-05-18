@@ -31,10 +31,11 @@ This project analyzes banking data to understand customer segmentation, loan app
 
 ---
 
-## 🖥️ Dashboard
+## 🖥️ Dashboard Preview
 
-[Click here to view Dashboard](https://drive.google.com/file/d/1apBhpKhe6TvJbC2s1HI1QNGyw3QIg7T2/view?usp=drive_link)
+![Bank Analytics Dashboard](dashboard_preview.png)
 
+[Click here to view full Dashboard](https://drive.google.com/file/d/1apBhpKhe6TvJbC2s1HI1QNGyw3QIg7T2/view?usp=drive_link)
 ---
 
 ## 📁 Project Structure
